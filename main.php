@@ -86,6 +86,20 @@
                 </li>
             </ul>
         </section>
+        
+
+
+<div id="slider">
+<figure>
+<img src="img/bck.jpg" alt>
+<img src="img/bck2.jpg" alt>
+<img src="img/bck3.jpg" alt>
+<img src="img/bck4.jpg" alt>
+<img src="img/bck5.jpg" alt>
+</figure>
+</div>
+
+
         <section id="contacts">
             <h2>ОБРАТНАЯ СВЯЗЬ</h2>
             <form method="POST" id="formContacts">
