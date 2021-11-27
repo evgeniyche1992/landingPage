@@ -87,7 +87,7 @@
             </ul>
         </section>
         
-
+<div>OR</div>
 
 <div id="slider">
 <figure>
